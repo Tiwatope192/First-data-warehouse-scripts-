@@ -138,5 +138,8 @@ create or replace table LOC_A101 (
         group by id
         having cnt > 1
     ---no duplicates
+
+
+---Bronze layer built sucessfully
   
               
